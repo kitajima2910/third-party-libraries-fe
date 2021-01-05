@@ -14,5 +14,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "bower_components": "https://github.com/kitajima2910/third-party-libraries-fe.git"
+  }
 }
